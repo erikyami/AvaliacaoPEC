@@ -1,4 +1,5 @@
 # CRUD de Produtos: Híbrido (Imperativo & Funcional)
+Aluno: Francisco Erik da Silva
 
 Este projeto consiste em um sistema de gestão de estoque desenvolvido em Python como parte da avaliação da disciplina de **Paradigmas de Programação**. O objetivo é demonstrar a integração prática entre os paradigmas **Imperativo** e **Funcional**, separando a interface de usuário da lógica de transformação de dados.
 
