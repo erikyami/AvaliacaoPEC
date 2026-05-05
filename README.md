@@ -43,7 +43,7 @@ Responsável pelo fluxo de execução, interação com o utilizador e gestão do
 ## 🚀 Como Executar
 
 1. Certifique-se de que tem o Python 3 instalado no seu sistema.
-2. Guarde o código-fonte num ficheiro chamado `estoque.py`.
+2. Guarde o código-fonte num arquivo chamado `estoque.py`.
 3. Execute o comando no seu terminal:
    ```bash
    python estoque.py
